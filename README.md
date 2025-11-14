@@ -1,35 +1,113 @@
-Hi, I’m Ayush Bhan 👋 I’m a passionate Programmer & Web Developer with a strong foundation in Full-Stack Web Development. My goal is to create interactive, responsive, and scalable web applications that solve real-world problems and deliver value to users.
+<h1 align="center">👋 Hi, I'm Ayush Bhan</h1>
+<h3 align="center">🚀 Full-Stack Web Developer | MERN Stack Enthusiast | Problem Solver</h3>
 
-🚀 Current Work: I’m currently building an IOCL Full Stack Application, where I focus on optimizing performance, scalability, and efficiency. This project has strengthened my expertise in React, Node.js, Express.js, and MongoDB while applying modern development practices.
+I’m a passionate **Programmer & Web Developer** with strong experience in **Full-Stack Development**.  
+I love building **interactive, scalable, and user-focused applications** that deliver real-world impact.
 
-🌱 What I’m Learning: I’m continuously sharpening my skills in MERN stack development, API design, and real-time data handling, while also exploring UI/UX best practices to ensure user-friendly designs.
+---
 
-🤝 Collaboration Goals: I’m open to collaborating on Full-Stack Web Development projects, especially those involving:
+## 🚀 Current Work
+🔧 I’m currently developing a **Full-Stack IOCL Application**, where I'm working with:
 
-Real-time applications
+- React.js  
+- Node.js  
+- Express.js  
+- MongoDB  
 
-RESTful APIs or GraphQL
+Focus areas: **Scalability, performance, clean APIs, and real-time data handling**.
 
-Database-driven systems
+---
 
-Responsive and interactive front-end design
+## 🌱 What I'm Learning
+- Advanced MERN stack  
+- RESTful APIs & API design  
+- Real-time backend architecture  
+- UI/UX best practices for better user experience  
 
-💡 Tech Stack & Skills:
+---
 
-Frontend: React.js, HTML5, CSS, JavaScript (ES6+), Responsive Web Design
+## 🤝 Collaboration Goals
+I’m open to collaborating on:
 
-Backend: Node.js, Express.js
+- Real-time applications  
+- RESTful APIs / GraphQL  
+- Database-driven systems  
+- Responsive & interactive UI projects  
 
-Database: MongoDB, Firebase
+---
 
-Tools & Others: Git, GitHub, VS Code, Postman
+## 💡 Tech Stack & Skills
 
-💬 Ask me about: React, Node.js, Express.js, MongoDB, JavaScript, HTML, CSS – I love solving challenges and sharing knowledge with others.
+### 🖥 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-📫 How to reach me:
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-4B8BBE?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-Email: ahanbhan29@gmail.com
+### 🗄 Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-LinkedIn: www.linkedin.com/in/ayush-bhan-541393184
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-😄 Pronouns: He/Him ⚡ Fun Fact: I participated in the X to 10X Hackathon at Masai School
+---
+
+## 💬 Ask Me About
+React, Node.js, Express.js, MongoDB, JavaScript, HTML, CSS.  
+I love helping others understand concepts and solve problems.
+
+---
+
+## 📫 Contact Me
+
+- 📧 **Email:** ahanbhan29@gmail.com  
+- 🔗 **LinkedIn:** www.linkedin.com/in/ayush-bhan-541393184  
+
+---
+
+## 😄 Pronouns
+**He/Him**
+
+---
+
+## ⚡ Fun Fact
+I participated in the **X to 10X Hackathon at Masai School**!
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
